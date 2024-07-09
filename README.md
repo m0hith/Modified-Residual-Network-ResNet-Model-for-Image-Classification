@@ -2,7 +2,7 @@
 
 Work done as part of the Deep Learning (ECE-GY 7123) mini-project. The model has been developed by Shashank Shekhar (ss16116), Mohith Jarapala (mpj8687), and Ayanesh Chowdhury (ac10230).
 
-All the models have been based on https://github.com/kuangliu/pytorch-cifar. An accompanying report detailing the background, model development, and results has been provided.
+All the models have been based on https://github.com/kuangliu/pytorch-cifar. An accompanying report detailing the background, model development, and results is provided.
 
 ### Dataset:
 CIFAR-10 is a dataset of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The classes are: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
